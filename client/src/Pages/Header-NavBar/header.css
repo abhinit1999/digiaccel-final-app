@@ -1,0 +1,43 @@
+*
+{
+    margin: 0;padding: 0;
+    
+
+}
+
+nav {
+    background-color: rgb(16, 9, 101);
+    padding: 1rem;
+    margin-bottom: 2rem;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    
+
+
+  }
+  ul {
+    display: flex;
+    /* justify-content: space-between; */
+    /* align-items: center; */
+    padding: 10px;
+    
+  }
+ .li_des
+  {
+    text-decoration: none;
+    font-size: 1.3rem;
+    font-weight: bold;
+    margin: 2rem;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+  }
+  .li_des:hover
+  {
+    color: rgb(211, 191, 191);
+  }
+  li {
+    list-style: none;
+  }
+ 
+  
